@@ -1,6 +1,6 @@
 # LabExperiment1-Breadth-First-Search
 ### DATE:11-03-2024                                                                            
-### REGISTER NUMBER : 212221040073
+### REGISTER NUMBER : 212221040126
 ### AIM: 
 To write a python program to implement Breadth first Search. 
 ### Algorithm:
